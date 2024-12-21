@@ -1,0 +1,1 @@
+class_name Player_ND extends CharacterBodyEntity_ND
